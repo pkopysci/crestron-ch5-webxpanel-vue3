@@ -1,5 +1,5 @@
 # crestron-ch5-webxpanel-vue3
-Boilerplate Vue 3/ Vite project for Crestron CrComLib integration with Crestron Web Xpanel support.
+Boilerplate Vue 3/ Vite project for Crestron CrComLib 2.8.0 integration with Crestron CH5-Xpanel 2.8.0 support.
 
 ## Features
 ### Pinia State Management
