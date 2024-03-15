@@ -18,7 +18,6 @@ Boilerplate Vue 3/ Vite project for Crestron CrComLib integration with Crestron 
 
 ## Credits
 * Thanks to dvjstefan for prividing an example of how to integrate CrComLib with Vue 3/Vite:
-https://github.com/dvjstefan/CH5-VueJS-Vite-Pinia-Example/tree/main
-. This template is based on their implementation of CrComLib and adds boiler plate for XPanel connections.
-
+https://github.com/dvjstefan/CH5-VueJS-Vite-Pinia-Example/tree/main. This template is based on their implementation of CrComLib and adds boiler plate for XPanel connections.
+* Alvaro Yurrita - DGI Tech & Tomer Raz - TRZ Industries for giving examples of how to fix the CSS Hex/RGBA issue with TSW touchscreens
 * Thanks to everyone in the Crestron Certified Programmers Discord for being a group of legends.
