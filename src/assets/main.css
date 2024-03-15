@@ -1,0 +1,9 @@
+body {
+    background-color: #000;
+    color: #DFDFDF;
+}
+
+button {
+    min-width: 200px;
+    min-height: 200px;
+}
