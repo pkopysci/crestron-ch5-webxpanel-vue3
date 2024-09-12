@@ -9,7 +9,7 @@ Boilerplate Vue 3/ Vite project for Crestron CrComLib 2.8.0 integration with Cre
 * starter setup & initialization of the CH5 XPanel (plugins > xpanel > crestronXpanel.js)
 
 ### Eruda Developer Tools
-* Includes Eruda touscreen dev tools (active by default)
+* Includes Eruda touchscreen dev tools (active by default)
 
 ### HEX Alpha to RGBA Build Script
 * Crestron TSW panels have issues with transparency in some minified CSS cases, such as when PostCSS converts RGBA to Hex.
